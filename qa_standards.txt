@@ -1,0 +1,5 @@
+Enterprise QA Standards & Rules:
+1. ID Format: Every test case must start with an ID like TC_FUNC_001 or TC_SEC_001.
+2. Required Columns: Test Case ID, Scenario Name, Type, Pre-conditions, Steps, Expected Result, Priority.
+3. Test Coverage: Every requirement must have at least 1 Positive scenario, 2 Negative scenarios, and 1 Boundary/Edge case.
+4. Priorities: Mark Critical/High for login, payment, and security flows; Medium/Low for UI layout checks.

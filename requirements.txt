@@ -1,2 +1,5 @@
 streamlit
-google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+scikit-learn
